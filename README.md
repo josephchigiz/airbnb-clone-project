@@ -72,7 +72,7 @@ By completing this project, you will:
 ### Primary Pages
 
 | Page                  | Description                                            |
-| --------------------- | ------------------------------------------------------ |
+| :-------------------- | :----------------------------------------------------- |
 | Property Listing View | Grid display of available properties with filters      |
 | Listing Detailed View | Complete property details with images and booking form |
 | Simple Checkout View  | Streamlined payment and booking confirmation           |
@@ -100,7 +100,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 ## Project Roles and Responsibilities
 
 | Role                | Responsibilities                                                    |
-| ------------------- | ------------------------------------------------------------------- |
+| :------------------ | :------------------------------------------------------------------ |
 | Project Manager     | Oversees timeline, coordinates team, manages deliverables           |
 | Frontend Developers | Implements UI components, ensures responsive design                 |
 | Backend Developers  | Builds APIs, manages database, implements business logic            |
